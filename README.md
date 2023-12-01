@@ -6,4 +6,4 @@ This project uses MLB Statcast Data  to train both am XGBoosted Decision Tree Mo
 
 
 ## Medium Article
-* Here is a link to the Medium Article which is a writeup about the project: 
+* Here is a link to the Medium Article which is a writeup about the project: https://medium.com/@thomasjamesnestico/modelling-batter-decision-value-dac74c55e20a
